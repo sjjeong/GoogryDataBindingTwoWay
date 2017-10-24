@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoogryDataBindingTwoWayBinding</string>
+    <string name="name">이름</string>
+    <string name="email">이메일</string>
+    <string name="phone">전화번호</string>
+    <string name="save">저장</string>
+    <string name="known">Known</string>
+    <string name="unknown">Unknown</string>
+</resources>
